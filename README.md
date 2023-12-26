@@ -1,2 +1,2 @@
-# ingenieria-de-software-poc1
-Proyecto de ingenieria de sofware 
+# Proyecto de Ingeniería de software 
+Prueba de concepto de un Proyecto de ingenieria de software 
